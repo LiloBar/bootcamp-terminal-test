@@ -1,0 +1,27 @@
+{
+  "name": "bootcamp-terminal-tests",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/LiloBar/bootcamp-terminal-tests.svg?branch=master)](https://travis-ci.org/LiloBar/bootcamp-terminal-tests)",
+  "main": "countAllFromTown.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiloBar/bootcamp-terminal-tests.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LiloBar/bootcamp-terminal-tests/issues"
+  },
+  "homepage": "https://github.com/LiloBar/bootcamp-terminal-tests#readme"
+}
